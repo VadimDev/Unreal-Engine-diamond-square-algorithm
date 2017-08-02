@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.16",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DiamondSquare",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
